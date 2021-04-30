@@ -3,20 +3,20 @@
     { "id": 1, "name":"DASH", "size":1 },
     { "id": 2, "name":"MCD", "size":1 },
     { "id": 3, "name":"LINK", "size":1 },
-    //{ "id": 4, "name":"INDE", "size":1 },
+    
     { "id": 5, "name":"SBX", "size":1 },
     { "id": 6, "name":"NFX", "size":1 },
     { "id": 7, "name":"EBAY","size":1 },
     { "id": 8, "name":"ZLW", "size":1 },
     { "id": 9, "name":"GGL", "size":1 },
     { "id": 10, "name":"YOU", "size":1 },
-    //{ "id": 11, "name":"AMZ", "size":1 },
+    
     { "id": 12, "name":"YHO", "size":1 },
     { "id": 13, "name":"ZOOM", "size":1 },
     { "id": 14, "name":"FB", "size":1 },
     { "id": 15, "name":"RDDT", "size":1 },
-    //{ "id": 16, "name":"WIKI", "size":1 },
-    //{ "id": 17, "name":"SHOP", "size":1 },
+    
+    
     { "id": 18, "name":"OFFI", "size":1 },
     { "id": 19, "name":"BING", "size":1 },
     { "id": 20, "name":"ALPHA", "size":3 },
